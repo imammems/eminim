@@ -1,2 +1,0 @@
-# eminim
-ini tes hosting
